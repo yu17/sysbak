@@ -22,7 +22,7 @@ log_error(){
 }
 
 # Configuration
-BACKUP_DIR="/mnt/PrivateD_0/not30_backup/sysbak_daily"
+BACKUP_DIR="ADD_PATH_HERE"
 SNAPSHOT_DIR="/.snapshots"
 
 mkdir -p $BACKUP_DIR

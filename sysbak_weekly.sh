@@ -20,8 +20,8 @@ log_error(){
 }
 
 # Configuration
-WEEKLY_DIR="/mnt/PrivateD_0/not30_backup/sysbak_weekly"
-DAILY_DIR="/mnt/PrivateD_0/not30_backup/sysbak_daily" 
+WEEKLY_DIR="ADD_PATH_HERE"
+DAILY_DIR="ADD_PATH_HERE"
 RETENTION_DAYS="60"
 MINIMAL_INTERVAL_DAYS="3"
 
